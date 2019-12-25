@@ -20,4 +20,4 @@ OpenCV, Pandas, and numpy are the Python packages that are necessary for this pr
 # Run Python File
 > python color_detection.py -i 'add your image path here'
 
-https://github.com/Souravpakhira/ColorDetection/issues/1#issue-542360844
+![](color-detection-python-project.gif)
